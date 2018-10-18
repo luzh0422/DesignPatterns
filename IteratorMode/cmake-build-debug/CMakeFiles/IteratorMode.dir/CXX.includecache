@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Aggregate.h
+Iterator.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Iterator.h
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Book.h
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelf.cpp
+BookShelf.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelf.h
+BookShelfIterator.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelfIterator.h
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelf.h
+Aggregate.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Aggregate.h
+vector
+-
+Book.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Book.h
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelfIterator.cpp
+BookShelfIterator.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelfIterator.h
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelfIterator.h
+Iterator.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Iterator.h
+Aggregate.h
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Aggregate.h
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Iterator.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/main.cpp
+iostream
+-
+
