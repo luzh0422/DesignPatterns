@@ -13,7 +13,11 @@ int BookShelf::getLength() {
     return maxSize;
 }
 
-void BookShelf::appendBook(Book pBook) {
+void BookShelf::appendBook(Book* pBook) {
     mBooks.push_back(pBook);
     maxSize++;
+}
+
+Book* BookShelf::getBookAtIndex(int index) {
+    return mBooks[index];
 }

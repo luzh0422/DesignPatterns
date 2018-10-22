@@ -2,6 +2,7 @@ file(REMOVE_RECURSE
   "CMakeFiles/IteratorMode.dir/main.cpp.o"
   "CMakeFiles/IteratorMode.dir/BookShelf.cpp.o"
   "CMakeFiles/IteratorMode.dir/BookShelfIterator.cpp.o"
+  "CMakeFiles/IteratorMode.dir/Book.cpp.o"
   "IteratorMode.pdb"
   "IteratorMode"
 )

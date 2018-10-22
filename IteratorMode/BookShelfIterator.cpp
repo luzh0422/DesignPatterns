@@ -13,5 +13,9 @@ bool BookShelfIterator::hasNext() {
 }
 
 std::string BookShelfIterator::next() {
-
+    if (hasNext()) {
+        std::string res = mAggreate->getBookAtIndex(index)->getName();
+        index++;
+        return res;
+    }
 }

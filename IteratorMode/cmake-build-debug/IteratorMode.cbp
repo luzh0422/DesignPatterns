@@ -80,6 +80,12 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Book.cpp">
+			<Option target="IteratorMode"/>
+		</Unit>
+		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Book.h">
+			<Option target="IteratorMode"/>
+		</Unit>
 		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelf.cpp">
 			<Option target="IteratorMode"/>
 		</Unit>

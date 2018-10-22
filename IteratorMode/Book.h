@@ -5,8 +5,16 @@
 #ifndef ITERATORMODE_BOOK_H
 #define ITERATORMODE_BOOK_H
 
-class Book {
+#include "string"
 
+
+class Book {
+public:
+    Book(std::string name) : mName(name) {}
+    std::string getName();
+
+private:
+    std::string mName;
 };
 
 #endif //ITERATORMODE_BOOK_H

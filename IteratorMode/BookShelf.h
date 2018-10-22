@@ -11,12 +11,13 @@
 
 class BookShelf : public Aggregate {
 public:
-    Iterator *iterator();
-    void appendBook(Book pBook);
+    Iterator* iterator();
+    void appendBook(Book* pBook);
+    Book* getBookAtIndex(int index);
     int getLength();
 
 private:
-    std::vector<Book> mBooks;
+    std::vector<Book* > mBooks;
     int maxSize = 0;
 };
 

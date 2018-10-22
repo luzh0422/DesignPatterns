@@ -4,6 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
+  "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/Book.cpp" "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/cmake-build-debug/CMakeFiles/IteratorMode.dir/Book.cpp.o"
   "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelf.cpp" "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/cmake-build-debug/CMakeFiles/IteratorMode.dir/BookShelf.cpp.o"
   "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/BookShelfIterator.cpp" "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/cmake-build-debug/CMakeFiles/IteratorMode.dir/BookShelfIterator.cpp.o"
   "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/main.cpp" "/Users/luzh/nodeAddon/DesignPatterns/IteratorMode/cmake-build-debug/CMakeFiles/IteratorMode.dir/main.cpp.o"

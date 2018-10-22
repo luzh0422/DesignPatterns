@@ -10,7 +10,6 @@
 class Aggregate {
 public:
     virtual Iterator *iterator() = 0;
-    virtual int  getLength() = 0;
 };
 
 #endif //ITERATORMODE_AGGREGATE_H

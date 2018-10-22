@@ -6,16 +6,16 @@
 #define ITERATORMODE_BOOKSHELFITERATOR_H
 
 #include "Iterator.h"
-#include "Aggregate.h"
+#include "BookShelf.h"
 
 class BookShelfIterator : public Iterator {
 public:
-    BookShelfIterator(Aggregate *pAggregate) : mAggreate(pAggregate), Iterator() {}
+    BookShelfIterator(BookShelf *pAggregate) : mAggreate(pAggregate), Iterator() {}
     bool hasNext();
     std::string next();
 
 private:
-    Aggregate *mAggreate;
+    BookShelf *mAggreate;
     int index = 0;
 };
 

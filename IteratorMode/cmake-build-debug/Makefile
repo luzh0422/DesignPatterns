@@ -123,6 +123,33 @@ IteratorMode/fast:
 	$(MAKE) -f CMakeFiles/IteratorMode.dir/build.make CMakeFiles/IteratorMode.dir/build
 .PHONY : IteratorMode/fast
 
+Book.o: Book.cpp.o
+
+.PHONY : Book.o
+
+# target to build an object file
+Book.cpp.o:
+	$(MAKE) -f CMakeFiles/IteratorMode.dir/build.make CMakeFiles/IteratorMode.dir/Book.cpp.o
+.PHONY : Book.cpp.o
+
+Book.i: Book.cpp.i
+
+.PHONY : Book.i
+
+# target to preprocess a source file
+Book.cpp.i:
+	$(MAKE) -f CMakeFiles/IteratorMode.dir/build.make CMakeFiles/IteratorMode.dir/Book.cpp.i
+.PHONY : Book.cpp.i
+
+Book.s: Book.cpp.s
+
+.PHONY : Book.s
+
+# target to generate assembly for a file
+Book.cpp.s:
+	$(MAKE) -f CMakeFiles/IteratorMode.dir/build.make CMakeFiles/IteratorMode.dir/Book.cpp.s
+.PHONY : Book.cpp.s
+
 BookShelf.o: BookShelf.cpp.o
 
 .PHONY : BookShelf.o
@@ -213,6 +240,9 @@ help:
 	@echo "... rebuild_cache"
 	@echo "... edit_cache"
 	@echo "... IteratorMode"
+	@echo "... Book.o"
+	@echo "... Book.i"
+	@echo "... Book.s"
 	@echo "... BookShelf.o"
 	@echo "... BookShelf.i"
 	@echo "... BookShelf.s"

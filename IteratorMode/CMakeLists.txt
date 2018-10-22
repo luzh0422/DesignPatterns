@@ -3,4 +3,4 @@ project(IteratorMode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(IteratorMode main.cpp BookShelf.cpp BookShelfIterator.cpp)
+add_executable(IteratorMode main.cpp BookShelf.cpp BookShelfIterator.cpp Book.cpp)
