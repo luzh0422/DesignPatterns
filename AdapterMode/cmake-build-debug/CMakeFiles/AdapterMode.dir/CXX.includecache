@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Print.h
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBanner.h
+Print.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Print.h
+Banner.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.cpp
+PrintBannerObject.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.h
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.h
+Print.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Print.h
+Banner.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/main.cpp
+iostream
+-
+Print.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Print.h
+PrintBanner.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBanner.h
+PrintBannerObject.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.h
+
