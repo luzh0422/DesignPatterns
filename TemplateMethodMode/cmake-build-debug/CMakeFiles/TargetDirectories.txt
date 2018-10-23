@@ -1,0 +1,3 @@
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/cmake-build-debug/CMakeFiles/TemplateMethodMode.dir

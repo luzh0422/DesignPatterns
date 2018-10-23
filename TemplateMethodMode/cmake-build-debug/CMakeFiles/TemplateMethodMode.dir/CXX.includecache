@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.cpp
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/CharDisplay.cpp
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/StringDisplay.cpp
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/main.cpp
+iostream
+-
+
