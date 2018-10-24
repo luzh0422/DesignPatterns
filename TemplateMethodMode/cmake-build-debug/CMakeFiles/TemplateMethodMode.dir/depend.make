@@ -8,9 +8,12 @@ CMakeFiles/TemplateMethodMode.dir/CharDisplay.cpp.o: ../AbstractDisplay.h
 CMakeFiles/TemplateMethodMode.dir/CharDisplay.cpp.o: ../CharDisplay.cpp
 CMakeFiles/TemplateMethodMode.dir/CharDisplay.cpp.o: ../CharDisplay.h
 
+CMakeFiles/TemplateMethodMode.dir/StringDisplay.cpp.o: ../AbstractDisplay.h
 CMakeFiles/TemplateMethodMode.dir/StringDisplay.cpp.o: ../StringDisplay.cpp
+CMakeFiles/TemplateMethodMode.dir/StringDisplay.cpp.o: ../StringDisplay.h
 
 CMakeFiles/TemplateMethodMode.dir/main.cpp.o: ../AbstractDisplay.h
 CMakeFiles/TemplateMethodMode.dir/main.cpp.o: ../CharDisplay.h
+CMakeFiles/TemplateMethodMode.dir/main.cpp.o: ../StringDisplay.h
 CMakeFiles/TemplateMethodMode.dir/main.cpp.o: ../main.cpp
 
