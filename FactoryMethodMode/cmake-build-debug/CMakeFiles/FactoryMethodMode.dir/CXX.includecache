@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Factory.h
+string
+-
+Project.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Project.h
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCardFactory.h
+Factory.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Factory.h
+string
+-
+vector
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Project.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/main.cpp
+iostream
+-
+IDCardFactory.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCardFactory.h
+Project.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Project.h
+
