@@ -6,11 +6,33 @@
 
 #IncludeRegexTransform: 
 
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Factory.cpp
+Factory.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Factory.h
+
 /Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Factory.h
 string
 -
 Project.h
 /Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Project.h
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCard.cpp
+IDCard.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCard.h
+iostream
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCard.h
+Project.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Project.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCardFactory.cpp
+IDCardFactory.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCardFactory.h
+IDCard.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCard.h
 
 /Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCardFactory.h
 Factory.h
@@ -29,6 +51,8 @@ iostream
 -
 IDCardFactory.h
 /Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/IDCardFactory.h
+Factory.h
+/Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Factory.h
 Project.h
 /Users/luzh/nodeAddon/DesignPatterns/FactoryMethodMode/Project.h
 

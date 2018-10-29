@@ -11,7 +11,7 @@
 
 class IDCardFactory : public Factory {
 protected:
-    Project *createProject(std::string owner) override;
+    Project* createProject(std::string owner) override;
     void registerProject(Project *p) override;
 
 private:

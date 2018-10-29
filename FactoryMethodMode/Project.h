@@ -9,8 +9,8 @@
 
 class Project {
 public:
-    void virtual use() = 0;
-    std::string virtual getOwner() = 0;
+    virtual void use() = 0;
+    virtual std::string getOwner() = 0;
 };
 
 #endif //FACTORYMETHODMODE_PROJECT_H

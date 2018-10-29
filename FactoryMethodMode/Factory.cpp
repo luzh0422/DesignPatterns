@@ -5,7 +5,7 @@
 #include "Factory.h"
 
 Project* Factory::create(std::string owner) {
-    Project *p = createProject(owner);
+    Project* p = createProject(owner);
     registerProject(p);
     return p;
 }

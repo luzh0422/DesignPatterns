@@ -10,10 +10,10 @@
 
 class Factory {
 public:
-    Project virtual *create(std::string owner) final;
+    virtual Project* create(std::string owner) final;
 protected:
-    Project virtual *createProject(std::string owner) = 0;
-    void virtual registerProject(Project*) = 0;
+    virtual Project* createProject(std::string owner) = 0;
+    virtual void registerProject(Project*) = 0;
 };
 
 #endif //FACTORYMETHODMODE_FACTORY_H
