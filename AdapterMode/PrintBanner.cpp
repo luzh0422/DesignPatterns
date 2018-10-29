@@ -5,10 +5,12 @@
 #include "PrintBanner.h"
 
 void PrintBanner::printWeak() {
-    printWithPattern();
+    // call printWithPattern of Banner.
+    Banner::printWithPattern();
 }
 
 void PrintBanner::printStrong() {
-    printWithAsterisk();
+    // call printWithAsterisk of Banner.
+    Banner::printWithAsterisk();
 }
 

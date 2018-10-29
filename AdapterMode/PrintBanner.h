@@ -12,8 +12,8 @@
 class PrintBanner : public Banner, public Print {
 public:
     PrintBanner(std::string pString) : Banner(pString) {}
-    void printWeak();
-    void printStrong();
+    void printWeak() override;
+    void printStrong() override;
 };
 
 #endif //ADAPTERMODE_PRINTBANNER_H
