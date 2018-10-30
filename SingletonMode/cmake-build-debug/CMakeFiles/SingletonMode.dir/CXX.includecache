@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/SingletonMode/Singleton.cpp
+Singleton.h
+/Users/luzh/nodeAddon/DesignPatterns/SingletonMode/Singleton.h
+iostream
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/SingletonMode/Singleton.h
+
+/Users/luzh/nodeAddon/DesignPatterns/SingletonMode/main.cpp
+iostream
+-
+Singleton.h
+/Users/luzh/nodeAddon/DesignPatterns/SingletonMode/Singleton.h
+
