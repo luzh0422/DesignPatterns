@@ -8,11 +8,12 @@
 Singleton* Singleton::mSingleton = nullptr;
 
 Singleton::Singleton() {
-
+    std::cout << "This is a Singleton Class" << std::endl;
 }
 
 Singleton::~Singleton() {
-
+    delete mSingleton;
+    mSingleton = nullptr;
 }
 
 Singleton* Singleton::getInstance() {
@@ -30,6 +31,6 @@ void Singleton::releaseInstance() {
 }
 
 void Singleton::show() {
-    std::cout << "This is a singleton class" << std::endl;
+    std::cout << "This is showFunction of the singleton Class" << std::endl;
 }
 
