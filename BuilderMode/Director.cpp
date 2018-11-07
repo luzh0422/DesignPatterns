@@ -5,9 +5,9 @@
 #include "Director.h"
 
 void Director::construct() {
-    mBuilder->makeTitle();
-    mBuilder->makeItems();
-    mBuilder->makeString();
+    mBuilder->makeTitle("Greeting");
+    mBuilder->makeString("从早上到下午");
+    mBuilder->makeItems("晚上");
     mBuilder->close();
 }
 
