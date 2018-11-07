@@ -13,15 +13,8 @@
   <component name="ChangeListManager">
     <list default="true" id="c68810a2-d318-455c-912f-58eccd5e32f7" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../AdapterMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../AdapterMode/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdapterMode/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../AdapterMode/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdapterMode/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/../AdapterMode/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../AdapterMode/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../AdapterMode/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Factory.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Factory.h" beforeDir="false" afterPath="$PROJECT_DIR$/Factory.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IDCardFactory.h" beforeDir="false" afterPath="$PROJECT_DIR$/IDCardFactory.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Project.h" beforeDir="false" afterPath="$PROJECT_DIR$/Project.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SingletonMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SingletonMode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TemplateMethodMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -36,7 +29,7 @@
     <session id="1877913390">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
+          <entry key="project.closed" value="2" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.6" value="1" />
           <entry key="project.opened" value="2" />
@@ -103,8 +96,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project.h">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            <state relative-caret-position="304">
+              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
             </state>
           </provider>
         </entry>
@@ -268,12 +261,12 @@
       <option name="presentableId" value="Default" />
       <updated>1540731626831</updated>
       <workItem from="1540731628372" duration="2516000" />
-      <workItem from="1540734198820" duration="2407000" />
+      <workItem from="1540734198820" duration="4318000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4923000" />
+    <option name="totallyTimeSpent" value="6834000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1920" y="180" width="1440" height="900" extended-state="0" />
@@ -285,7 +278,7 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.4" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -384,8 +377,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project.h">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        <state relative-caret-position="304">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
         </state>
       </provider>
     </entry>

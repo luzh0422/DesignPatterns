@@ -13,15 +13,8 @@
   <component name="ChangeListManager">
     <list default="true" id="fddd66d2-57b8-4244-9a31-75045d1d09f4" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintBanner.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/PrintBanner.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PrintBanner.h" beforeDir="false" afterPath="$PROJECT_DIR$/PrintBanner.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/AdapterMode" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/AdapterMode" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/CXX.includecache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/PrintBanner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/PrintBanner.cpp.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/CMakeOutput.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../FactoryMethodMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../FactoryMethodMode/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../SingletonMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../SingletonMode/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TemplateMethodMode/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
@@ -36,7 +29,7 @@
     <session id="1490023111">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
+          <entry key="project.closed" value="3" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.1" value="2" />
           <entry key="project.open.time.2" value="1" />
@@ -264,16 +257,15 @@
       <workItem from="1540177059367" duration="1666000" />
       <workItem from="1540732639803" duration="608000" />
       <workItem from="1540734198989" duration="77000" />
-      <workItem from="1540809398044" duration="116000" />
+      <workItem from="1540809398044" duration="654000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2467000" />
+    <option name="totallyTimeSpent" value="3005000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1003" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2593184" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
@@ -281,13 +273,13 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39956093" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39956093" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Messages" order="8" weight="0.32891566" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.35565314" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="9" visible="true" weight="0.35565314" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="CMake" order="12" />

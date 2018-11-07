@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/PrototypeMode/Manager.cpp
+Manager.h
+/Users/luzh/nodeAddon/DesignPatterns/PrototypeMode/Manager.h
+iostream
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/PrototypeMode/Manager.h
+map
+-
+string
+-
+Product.h
+/Users/luzh/nodeAddon/DesignPatterns/PrototypeMode/Product.h
+
+/Users/luzh/nodeAddon/DesignPatterns/PrototypeMode/Product.h
+string
+-
+
