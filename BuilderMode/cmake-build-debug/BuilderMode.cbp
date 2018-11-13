@@ -86,10 +86,10 @@
 		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/Director.h">
 			<Option target="BuilderMode"/>
 		</Unit>
-		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/TextBuilder.cpp">
+		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/HTMLBuilder.cpp">
 			<Option target="BuilderMode"/>
 		</Unit>
-		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/TextBuilder.h">
+		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/HTMLBuilder.h">
 			<Option target="BuilderMode"/>
 		</Unit>
 		<Unit filename="/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/main.cpp">

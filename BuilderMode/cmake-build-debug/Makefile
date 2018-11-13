@@ -150,32 +150,32 @@ Director.cpp.s:
 	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/Director.cpp.s
 .PHONY : Director.cpp.s
 
-TextBuilder.o: TextBuilder.cpp.o
+HTMLBuilder.o: HTMLBuilder.cpp.o
 
-.PHONY : TextBuilder.o
+.PHONY : HTMLBuilder.o
 
 # target to build an object file
-TextBuilder.cpp.o:
-	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o
-.PHONY : TextBuilder.cpp.o
+HTMLBuilder.cpp.o:
+	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o
+.PHONY : HTMLBuilder.cpp.o
 
-TextBuilder.i: TextBuilder.cpp.i
+HTMLBuilder.i: HTMLBuilder.cpp.i
 
-.PHONY : TextBuilder.i
+.PHONY : HTMLBuilder.i
 
 # target to preprocess a source file
-TextBuilder.cpp.i:
-	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/TextBuilder.cpp.i
-.PHONY : TextBuilder.cpp.i
+HTMLBuilder.cpp.i:
+	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.i
+.PHONY : HTMLBuilder.cpp.i
 
-TextBuilder.s: TextBuilder.cpp.s
+HTMLBuilder.s: HTMLBuilder.cpp.s
 
-.PHONY : TextBuilder.s
+.PHONY : HTMLBuilder.s
 
 # target to generate assembly for a file
-TextBuilder.cpp.s:
-	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/TextBuilder.cpp.s
-.PHONY : TextBuilder.cpp.s
+HTMLBuilder.cpp.s:
+	$(MAKE) -f CMakeFiles/BuilderMode.dir/build.make CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.s
+.PHONY : HTMLBuilder.cpp.s
 
 main.o: main.cpp.o
 
@@ -216,9 +216,9 @@ help:
 	@echo "... Director.o"
 	@echo "... Director.i"
 	@echo "... Director.s"
-	@echo "... TextBuilder.o"
-	@echo "... TextBuilder.i"
-	@echo "... TextBuilder.s"
+	@echo "... HTMLBuilder.o"
+	@echo "... HTMLBuilder.i"
+	@echo "... HTMLBuilder.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"

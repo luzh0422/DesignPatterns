@@ -5,7 +5,7 @@ set(CMAKE_DEPENDS_LANGUAGES
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
   "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/Director.cpp" "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles/BuilderMode.dir/Director.cpp.o"
-  "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/TextBuilder.cpp" "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o"
+  "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/HTMLBuilder.cpp" "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o"
   "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/main.cpp" "/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles/BuilderMode.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")

@@ -83,31 +83,31 @@ CMakeFiles/BuilderMode.dir/Director.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderMode.dir/Director.cpp.s"
 	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/Director.cpp -o CMakeFiles/BuilderMode.dir/Director.cpp.s
 
-CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o: CMakeFiles/BuilderMode.dir/flags.make
-CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o: ../TextBuilder.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o -c /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/TextBuilder.cpp
+CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o: CMakeFiles/BuilderMode.dir/flags.make
+CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o: ../HTMLBuilder.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o -c /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/HTMLBuilder.cpp
 
-CMakeFiles/BuilderMode.dir/TextBuilder.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderMode.dir/TextBuilder.cpp.i"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/TextBuilder.cpp > CMakeFiles/BuilderMode.dir/TextBuilder.cpp.i
+CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.i"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/HTMLBuilder.cpp > CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.i
 
-CMakeFiles/BuilderMode.dir/TextBuilder.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderMode.dir/TextBuilder.cpp.s"
-	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/TextBuilder.cpp -o CMakeFiles/BuilderMode.dir/TextBuilder.cpp.s
+CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.s"
+	/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/luzh/nodeAddon/DesignPatterns/BuilderMode/HTMLBuilder.cpp -o CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.s
 
 # Object files for target BuilderMode
 BuilderMode_OBJECTS = \
 "CMakeFiles/BuilderMode.dir/main.cpp.o" \
 "CMakeFiles/BuilderMode.dir/Director.cpp.o" \
-"CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o"
+"CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o"
 
 # External object files for target BuilderMode
 BuilderMode_EXTERNAL_OBJECTS =
 
 BuilderMode: CMakeFiles/BuilderMode.dir/main.cpp.o
 BuilderMode: CMakeFiles/BuilderMode.dir/Director.cpp.o
-BuilderMode: CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o
+BuilderMode: CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o
 BuilderMode: CMakeFiles/BuilderMode.dir/build.make
 BuilderMode: CMakeFiles/BuilderMode.dir/link.txt
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/Users/luzh/nodeAddon/DesignPatterns/BuilderMode/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable BuilderMode"

@@ -1,7 +1,7 @@
 file(REMOVE_RECURSE
   "CMakeFiles/BuilderMode.dir/main.cpp.o"
   "CMakeFiles/BuilderMode.dir/Director.cpp.o"
-  "CMakeFiles/BuilderMode.dir/TextBuilder.cpp.o"
+  "CMakeFiles/BuilderMode.dir/HTMLBuilder.cpp.o"
   "BuilderMode.pdb"
   "BuilderMode"
 )
