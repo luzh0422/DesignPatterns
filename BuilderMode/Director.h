@@ -7,6 +7,11 @@
 
 #include "Builder.h"
 
+template <class T>
+    int GetLength(T& arr) {
+        return sizeof(arr) / sizeof(arr[0]);
+    }
+
 class Director {
 public:
     Director(Builder* pBuilder) : mBuilder(pBuilder) {}

@@ -1,0 +1,25 @@
+CMAKE_MINIMUM_REQUIRED(VERSION 3.3)
+
+# 设定动态库和静态库的生成位置;
+#SET(LIBRARY_OUTPUT_PATH "lib")
+
+# 设定要编译的源文件
+set(SOURCE_FILES hello.cpp)
+
+# 生成动态库
+add_library(hello SHARED ${SOURCE_FILES})
+
+# 生成静态库
+#ADD_LIBRARY(hello_static STATIC ${SOURCE_FILES})
+
+# 设定生成静态库的名称
+SET_TARGET_PROPERTIES(hello PROPERTIES OUTPUT_NAME "hello.so" SUFFIX "" PREFIX "")
+
+# 设定生成动态库的名称
+#SET_TARGET_PROPERTIES(hello_static PROPERTIES OUTPUT_NAME "hello.a" SUFFIX "" PREFIX "")
+
+# 设定同时生成静态库和动态库
+SET_TARGET_PROPERTIES(hello PROPERTIES CLEAN_DIRECT_OUTPUT 1)
+
+#SET_TARGET_PROPERTIES(hello_static PROPERTIES CLEAN_DIRECT_OUTPUT 1)
+
