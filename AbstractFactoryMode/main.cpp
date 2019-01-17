@@ -1,19 +1,22 @@
 #include <iostream>
-#include "ListFactory.h"
-#include "ListLink.h"
-#include "ListFactory.h"
-
+//#include "ListFactory.h"
+//#include "ListLink.h"
+//#include "ListFactory.h"
+#include "AbstractFactory.h"
+#include "AbstractLink.h"
+#include "AbstractTray.h"
+#include "AbstractPage.h"
 
 int main() {
-    ListFactory* listFactory = new ListFactory();
-    std::shared_ptr<ListLink> people(listFactory->getLink("人民日报", "http://www.people.com.cn/"));
-    std::shared_ptr<ListLink> gmw(listFactory->getLink("光明日报", "http://www..gmw.cn/"));
+    AbstractFactory* listFactory = AbstractFactory::createFactory(AbstractFactory::FACTORY_TYPE::listfactory);
+    std::shared_ptr<AbstractLink> people(listFactory->getLink("人民日报", "http://www.people.com.cn/"));
+    std::shared_ptr<AbstractLink> gmw(listFactory->getLink("光明日报", "http://www..gmw.cn/"));
 
-    std::shared_ptr<ListTray> traynews(listFactory->getTray("日报"));
+    std::shared_ptr<AbstractTray> traynews(listFactory->getTray("日报"));
     traynews->addItem(people.get());
     traynews->addItem(gmw.get());
 
-    std::shared_ptr<ListPage> page(listFactory->getPage("LinkPage", "a"));
+    std::shared_ptr<AbstractPage> page(listFactory->getPage("LinkPage", "a"));
     page->add(traynews.get());
     page->output();
     people.reset();

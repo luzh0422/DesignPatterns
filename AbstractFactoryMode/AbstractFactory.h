@@ -15,6 +15,10 @@ using std::string;
 
 class AbstractFactory {
 public:
+    enum FACTORY_TYPE {
+        listfactory
+    };
+    static AbstractFactory* createFactory(FACTORY_TYPE type);
     virtual AbstractLink* getLink(string caption, string url) = 0;
     virtual AbstractTray* getTray(string caption) = 0;
     virtual AbstractPage* getPage(string title, string author) = 0;

@@ -3,7 +3,7 @@ project(AbstractFactoryMode)
 
 set(CMAKE_CXX_STANDARD 14)
 
-set(SOURCE_FILES main.cpp AbstractTray.cpp AbstractPage.cpp ListLink.cpp ListTray.cpp ListPage.cpp ListFactory.cpp)
+set(SOURCE_FILES main.cpp AbstractFactory.cpp AbstractTray.cpp AbstractPage.cpp ListLink.cpp ListTray.cpp ListPage.cpp ListFactory.cpp)
 
 
 add_subdirectory(lib)
