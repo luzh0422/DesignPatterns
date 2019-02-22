@@ -13,6 +13,8 @@ int main() {
     bindir->add(new File("vi", 10000));
     bindir->add(new File("latex", 20000));
     rootdir->printList();
+    File *testFile = new File("test", 10000);
+    testFile->add(rootdir);
 
     return 0;
 }

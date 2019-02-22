@@ -12,8 +12,8 @@
 class File : public Entry {
 public:
     File(std::string name, int size) : Entry() {
-        Entry::mName = name;
-        Entry::mSize = size;
+        mName = name;
+        mSize = size;
     }
     void printList() override;
 
