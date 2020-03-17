@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.h
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/CharDisplay.h
+AbstractDisplay.h
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.h
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/StringDisplay.h
+AbstractDisplay.h
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.h
+string
+-
+
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/main.cpp
+iostream
+-
+AbstractDisplay.h
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.h
+CharDisplay.h
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/CharDisplay.h
+StringDisplay.h
+/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/StringDisplay.h
+

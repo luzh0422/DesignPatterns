@@ -15,7 +15,8 @@ public:
         pb = new Banner(mString);
     }
     ~PrintBannerObject() {
-        pb = nullptr;
+        delete pb;
+        pb = NULL;
     }
     void printWeak() override;
     void printStrong() override;

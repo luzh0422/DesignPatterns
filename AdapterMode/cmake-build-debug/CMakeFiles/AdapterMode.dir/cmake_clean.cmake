@@ -1,10 +1,10 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/AdapterMode.dir/main.cpp.o"
+  "AdapterMode"
+  "AdapterMode.pdb"
   "CMakeFiles/AdapterMode.dir/Banner.cpp.o"
   "CMakeFiles/AdapterMode.dir/PrintBanner.cpp.o"
   "CMakeFiles/AdapterMode.dir/PrintBannerObject.cpp.o"
-  "AdapterMode.pdb"
-  "AdapterMode"
+  "CMakeFiles/AdapterMode.dir/main.cpp.o"
 )
 
 # Per-language clean rules from dependency scanning.

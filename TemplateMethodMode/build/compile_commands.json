@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/build",
+  "command": "/usr/bin/clang++   -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/TemplateMethodMode.dir/AbstractDisplay.cpp.o -c /Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.cpp",
+  "file": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/AbstractDisplay.cpp"
+},
+{
+  "directory": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/build",
+  "command": "/usr/bin/clang++   -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/TemplateMethodMode.dir/main.cpp.o -c /Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/main.cpp",
+  "file": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/main.cpp"
+},
+{
+  "directory": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/build",
+  "command": "/usr/bin/clang++   -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/TemplateMethodMode.dir/CharDisplay.cpp.o -c /Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/CharDisplay.cpp",
+  "file": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/CharDisplay.cpp"
+},
+{
+  "directory": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/build",
+  "command": "/usr/bin/clang++   -I/Library/Developer/CommandLineTools/usr/include/c++/v1  -std=c++11 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.14.sdk   -std=gnu++14 -o CMakeFiles/TemplateMethodMode.dir/StringDisplay.cpp.o -c /Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/StringDisplay.cpp",
+  "file": "/Users/luzh/nodeAddon/DesignPatterns/TemplateMethodMode/StringDisplay.cpp"
+}
+]

@@ -6,6 +6,12 @@
 
 #IncludeRegexTransform: 
 
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.cpp
+Banner.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.h
+iostream
+-
+
 /Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.h
 string
 -
@@ -23,6 +29,10 @@ Banner.h
 /Users/luzh/nodeAddon/DesignPatterns/AdapterMode/Banner.h
 string
 -
+
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.cpp
+PrintBannerObject.h
+/Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.h
 
 /Users/luzh/nodeAddon/DesignPatterns/AdapterMode/PrintBannerObject.h
 Print.h
