@@ -12,6 +12,39 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fddd66d2-57b8-4244-9a31-75045d1d09f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/.vscode/c_cpp_properties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/.vscode/launch.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/.vscode/tasks.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/CMakeDirectoryInformation.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/CMakeOutput.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/Makefile.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/Makefile2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/AbstractDisplay.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/CXX.includecache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/CharDisplay.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/DependInfo.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/StringDisplay.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/build.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/cmake_clean.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/depend.internal" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/depend.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/flags.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/link.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/main.cpp.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/TemplateMethodMode.dir/progress.make" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/progress.marks" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/TemplateMethodMode" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/compile_commands.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/helloworld.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/helloworld.out" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/helloworld.out.dSYM/Contents/Info.plist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TemplateMethodMode/helloworld.out.dSYM/Contents/Resources/DWARF/helloworld.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/PrintBannerObject.h" beforeDir="false" afterPath="$PROJECT_DIR$/PrintBannerObject.h" afterDir="false" />
@@ -20,22 +53,22 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeCache.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCCompiler.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeCXXCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_C.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CMakeSystem.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CMakeSystem.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdC/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CompilerIdC/a.out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.2/CompilerIdCXX/a.out" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CMakeCCompiler.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CMakeCXXCompiler.cmake" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_C.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CMakeDetermineCompilerABI_CXX.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CMakeSystem.cmake" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/CMakeCCompilerId.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdC/a.out" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/CMakeCXXCompilerId.cpp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/3.12.3/CompilerIdCXX/a.out" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/3.12.3/CompilerIdCXX/a.out" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/Banner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/Banner.cpp.o" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/CXX.includecache" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/CXX.includecache" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/PrintBanner.cpp.o" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/AdapterMode.dir/PrintBanner.cpp.o" afterDir="false" />
@@ -53,9 +86,9 @@
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/Makefile2" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.bin" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/feature_tests.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.c" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/feature_tests.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/CMakeFiles/feature_tests.cxx" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/build/CMakeFiles/feature_tests.cxx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/cmake-build-debug/Makefile" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/Makefile" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TemplateMethodMode/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../TemplateMethodMode/CMakeLists.txt" afterDir="false" />
     </list>
@@ -122,7 +155,7 @@
       <workItem from="1540732639803" duration="608000" />
       <workItem from="1540734198989" duration="77000" />
       <workItem from="1540809398044" duration="654000" />
-      <workItem from="1584426947698" duration="56000" />
+      <workItem from="1584426947698" duration="146000" />
     </task>
     <servers />
   </component>
@@ -130,6 +163,22 @@
     <option name="version" value="1" />
   </component>
   <component name="WindowStateProjectService">
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom" timestamp="1584427092986">
+      <screen x="1440" y="-145" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-145.1920.1080@1440.-145.1920.1080" timestamp="1584427092986" />
+    <state width="1878" height="304" key="GridCell.Tab.0.center" timestamp="1584427092984">
+      <screen x="1440" y="-145" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-145.1920.1080@1440.-145.1920.1080" timestamp="1584427092984" />
+    <state width="1878" height="304" key="GridCell.Tab.0.left" timestamp="1584427092983">
+      <screen x="1440" y="-145" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-145.1920.1080@1440.-145.1920.1080" timestamp="1584427092983" />
+    <state width="1878" height="304" key="GridCell.Tab.0.right" timestamp="1584427092985">
+      <screen x="1440" y="-145" width="1920" height="1080" />
+    </state>
+    <state width="1878" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-145.1920.1080@1440.-145.1920.1080" timestamp="1584427092985" />
     <state x="2065" y="96" width="670" height="676" key="search.everywhere.popup" timestamp="1584426971346">
       <screen x="1440" y="-145" width="1920" height="1080" />
     </state>
